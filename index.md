@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,19 +17,16 @@
 
 ---
 
-### Category Name 2
+### Project Links
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+- Message Spammer(https://github.com/NPisor/messagespammer)
+- Automatic Ring Fit Tracker/ Purchaser(https://github.com/NPisor/ringfitauto)
+- Paving Calculator(https://github.com/NPisor/PavingCalculator)
+- Basic Discord Bot(https://github.com/NPisor/discordbot)
+- Out of Order(https://github.com/NPisor/OutOfOrder)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
+
+
