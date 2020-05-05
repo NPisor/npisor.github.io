@@ -23,7 +23,7 @@ Out of Order
 
 ### Project Links
 
-- Message Spammer (https://github.com/NPisor/messagespammer)
+- Message Spammer (<a href=https://github.com/NPisor/messagespammer>)
 - Automatic Ring Fit Tracker/ Purchaser (https://github.com/NPisor/ringfitauto)
 - Paving Calculator (https://github.com/NPisor/PavingCalculator)
 - Basic Discord Bot (https://github.com/NPisor/discordbot)
