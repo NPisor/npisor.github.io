@@ -34,6 +34,17 @@
 
 ---
 
+## Task List
+
+
+<img src="images/task1.png?raw=true"/>
+
+<img src="images/task2.png?raw=true"/>
+
+
+---
+
+
 
 ### Project Links
 
@@ -42,6 +53,7 @@
 - [Paving Calculator](https://github.com/NPisor/PavingCalculator)
 - [Basic Discord Bot](https://github.com/NPisor/discordbot)
 - [Out of Order](https://github.com/NPisor/OutOfOrder)
+- [Task Reminder](https://github.om/NPisor/TaskReminder)
 
 ---
 
