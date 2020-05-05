@@ -2,9 +2,9 @@
 
 ---
 
-## Projects
+# Projects
 
-### Message Spammer
+## Message Spammer
 
 
 <img src="images/messagespam.png?raw=true"/>
@@ -12,7 +12,7 @@
 ---
 
 
-### Ring Fit Tracker/Buyer
+## Ring Fit Tracker/Buyer
 
 
 <img src="images/ringfit.png?raw=true"/>
@@ -20,13 +20,13 @@
 ---
 
 
-### Paving Calculator
+## Paving Calculator
 
 
 <img src="images/paving.png?raw=true"/>
 
 ---
-### Out of Order
+## Out of Order
 
 
 <img src="images/outoforder.png?raw=true"/>
