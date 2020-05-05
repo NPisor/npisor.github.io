@@ -4,26 +4,30 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
+Message Spammer
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Ring Fit Tracker/Buyer
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Paving Calculator
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+Basic Disord Bot
+
+---
+Out of Order
 
 ### Project Links
 
-- Message Spammer(https://github.com/NPisor/messagespammer)
-- Automatic Ring Fit Tracker/ Purchaser(https://github.com/NPisor/ringfitauto)
-- Paving Calculator(https://github.com/NPisor/PavingCalculator)
-- Basic Discord Bot(https://github.com/NPisor/discordbot)
-- Out of Order(https://github.com/NPisor/OutOfOrder)
+- Message Spammer (https://github.com/NPisor/messagespammer)
+- Automatic Ring Fit Tracker/ Purchaser (https://github.com/NPisor/ringfitauto)
+- Paving Calculator (https://github.com/NPisor/PavingCalculator)
+- Basic Discord Bot (https://github.com/NPisor/discordbot)
+- Out of Order (https://github.com/NPisor/OutOfOrder)
 
 ---
 
