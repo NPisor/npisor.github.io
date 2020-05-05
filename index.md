@@ -4,16 +4,22 @@
 
 ### Projects
 
-Message Spammer
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Message Spammer
+
+
+<img src="images/messagespam.png?raw=true"/>
 
 ---
-Ring Fit Tracker/Buyer
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Ring Fit Tracker/Buyer
+
+
+<img src="images/ringfit.png?raw=true"/>
 
 ---
-Paving Calculator
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Paving Calculator
+
+
+<img src="images/paving.png?raw=true"/>
 
 ---
 Basic Disord Bot
